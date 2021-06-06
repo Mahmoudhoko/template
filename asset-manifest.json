@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/template.git/static/css/main.56d5432d.chunk.css",
+    "main.js": "/github.io/template.git/static/js/main.af0c99f9.chunk.js",
+    "main.js.map": "/github.io/template.git/static/js/main.af0c99f9.chunk.js.map",
+    "runtime-main.js": "/github.io/template.git/static/js/runtime-main.69aad6fb.js",
+    "runtime-main.js.map": "/github.io/template.git/static/js/runtime-main.69aad6fb.js.map",
+    "static/js/2.db37f213.chunk.js": "/github.io/template.git/static/js/2.db37f213.chunk.js",
+    "static/js/2.db37f213.chunk.js.map": "/github.io/template.git/static/js/2.db37f213.chunk.js.map",
+    "static/js/3.a56be298.chunk.js": "/github.io/template.git/static/js/3.a56be298.chunk.js",
+    "static/js/3.a56be298.chunk.js.map": "/github.io/template.git/static/js/3.a56be298.chunk.js.map",
+    "index.html": "/github.io/template.git/index.html",
+    "static/css/main.56d5432d.chunk.css.map": "/github.io/template.git/static/css/main.56d5432d.chunk.css.map",
+    "static/js/2.db37f213.chunk.js.LICENSE.txt": "/github.io/template.git/static/js/2.db37f213.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69aad6fb.js",
+    "static/js/2.db37f213.chunk.js",
+    "static/css/main.56d5432d.chunk.css",
+    "static/js/main.af0c99f9.chunk.js"
+  ]
+}
